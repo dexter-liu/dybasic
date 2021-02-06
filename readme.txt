@@ -13,3 +13,5 @@ add the 5 line
 add the 6 line
 
 creating a new branch is quik ---> dev branch
+
+creating a new commit to test --no-ff git merge
